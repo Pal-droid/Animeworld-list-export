@@ -98,11 +98,15 @@ Response:
 
 📂 Scrape Watchlist
 
+```http
 GET /scrape/{user_id}
+```
 
 Example:
 
+```http
 GET /scrape/184425
+```
 
 Response:
 
