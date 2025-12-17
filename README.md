@@ -31,7 +31,7 @@ Clone this repo and install dependencies:
 
 ```bash
 git clone https://github.com/Pal-droid/Animeworld-list-export
-cd animeworld-scraper
+cd Animeworld-list-export
 
 # Create a virtual environment (recommended)
 python -m venv venv
